@@ -1,2 +1,2 @@
 # mikrokontroleri
-Lab 4 zadaca
+## Dodat Lab 5 i Lab 
